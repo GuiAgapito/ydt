@@ -48,7 +48,7 @@ Siga as instruções abaixo para instalar os requisitos necessários:
 
 **Iniciar Download:**
 
--Após adicionar todos os links e selecionar o formato, clique em "Iniciar download".
+- Após adicionar todos os links e selecionar o formato, clique em "Iniciar download".
 
 **Gerenciar Links:**
 

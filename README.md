@@ -18,13 +18,13 @@ Siga as instruções abaixo para instalar os requisitos necessários:
 
 **1. Clone o repositório:**
 
-`git clone https://github.com/GuiAgapito/ydt.git
-cd YDT`
+`git clone https://github.com/GuiAgapito/ydt.git`
+`cd YDT`
 
 **2. Crie um ambiente virtual (opcional, mas recomendado):**
 
-`python -m venv venv
-source venv/bin/activate  # No Windows: venv\Scripts\activate`
+`python -m venv venv`
+`source venv/bin/activate  # No Windows: venv\Scripts\activate`
 
 **3. Instale as dependências:**
 
@@ -48,7 +48,7 @@ source venv/bin/activate  # No Windows: venv\Scripts\activate`
 
 **Iniciar Download:**
 
--Após adicionar todos os links e selecionar o formato, clique em "Iniciar download".
+- Após adicionar todos os links e selecionar o formato, clique em "Iniciar download".
 
 **Gerenciar Links:**
 

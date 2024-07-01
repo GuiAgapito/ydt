@@ -6,10 +6,11 @@ YDT é uma ferramenta simples e eficiente para baixar vídeos do YouTube em form
 
 Para executar o YDT, você precisará ter instalado em seu sistema:
 
-- Oython 3.7 ou superior;
+- Python 3.7 ou superior;
 - yt-dlp;
 - Flet;
 - pyperclip
+- ffmpeg
 
 ## Instalação
 
@@ -17,7 +18,7 @@ Siga as instruções abaixo para instalar os requisitos necessários:
 
 **1. Clone o repositório:**
 
-`git clone https://github.com/seuusuario/YDT.git
+`git clone https://github.com/GuiAgapito/ydt.git
 cd YDT`
 
 **2. Crie um ambiente virtual (opcional, mas recomendado):**
@@ -28,6 +29,12 @@ source venv/bin/activate  # No Windows: venv\Scripts\activate`
 **3. Instale as dependências:**
 
 `pip install flet yt-dlp pyperclip`
+
+**Windows:**
+- `winget install "FFmpeg (Essentials Build)"`
+
+**Linux:**
+- `sudo apt install ffmpeg`
 
 # Como usar:
 
